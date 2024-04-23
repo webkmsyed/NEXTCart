@@ -1,3 +1,3 @@
 # NEXTCart Gaming Gears
 ## An E-Commerce Project by NEXTCart Gaming Gears Group
-![NEXTCart Gaming Gears](https://github.com/officialkmsyed/NextCart/blob/22db369739dc0d87fd9cc01a6bb56a4954e0dfd4/brand%20src/NextCart.png)  
+![NEXTCart Gaming Gears](https://github.com/officialkmsyed/NextCart/blob/f0f812efb74abcc90ab42c7293c818c8a9029742/brand_src/NextCart.png)  
