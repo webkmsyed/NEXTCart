@@ -1,2 +1,2 @@
-# E-Commerce-Project
-An E-Commerce Project
+# NEXTCart Gaming Gears
+An E-Commerce Project by NEXTCart Gaming Gears Group
