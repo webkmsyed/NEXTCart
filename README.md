@@ -1,6 +1,7 @@
-# NEXTCart Gaming Gears
-## An E-Commerce Project by NEXTCart Gaming Gears Group
-![NEXTCart Gaming Gears](https://github.com/officialkmsyed/NextCart/blob/f0f812efb74abcc90ab42c7293c818c8a9029742/brand_src/NextCart.png) 
+<h1 align='center'>NEXTCart Gaming Gears</h1>
+
+<h3 align='center'>E-Commerce Project by NEXTCart Gaming Gears Group</h3>
+<p align="center"><img height='200vh' width='200vw' src='https://github.com/officialkmsyed/NextCart/blob/f0f812efb74abcc90ab42c7293c818c8a9029742/brand_src/NextCart.png' /></p>
 
 ## Meet Our Team
 ### Khishamuddin Syed
