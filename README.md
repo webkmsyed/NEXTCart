@@ -5,8 +5,7 @@
 ## Meet Our Team
 ### Khishamuddin Syed
 <!-- Social Media Icons -->
-<a href='https://www.linkedin.com/in/kmsyed/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Khishamuddin_Syed-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=00AAFF&color=FFF2F2'/></a>  
-&nbsp; <a href='https://twitter.com/officialkmsyed' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Khishamuddin_Syed-100000?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=000000&color=FFFFFF'/></a>
+<a href='https://www.linkedin.com/in/kmsyed/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Khishamuddin_Syed-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=00AAFF&color=FFF2F2'/></a> &nbsp; <a href='https://twitter.com/officialkmsyed' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Khishamuddin_Syed-100000?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=000000&color=FFFFFF'/></a>
 
 ### Shoeb Khan
 <a href='https://www.linkedin.com/in/khan-shoeb/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Shoeb_Khan-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=00AAFF&color=FFF2F2'/></a>
