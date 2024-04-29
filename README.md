@@ -16,8 +16,6 @@
   <a href='https://www.linkedin.com/in/khan-shoeb/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Shoeb_Khan-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=00AAFF&color=FFF2F2'/></a>
  <h3>Nikita Uppe</h3>
   <a href='https://www.linkedin.com/in/nikita-uppe-94a479232/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/nikita_uppe-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=00AAFF&color=FFF2F2'/></a>
- <h3>Syed Mudassir</h3>
-  <a href='https://www.linkedin.com/in/syed-mudassir-3a9084295/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Syed_Mudassir-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=00AAFF&color=FFF2F2'/></a>
-</div>
+ 
 
 
